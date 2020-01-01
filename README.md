@@ -1,6 +1,10 @@
-# README
+# FLIXTER WEB APPLICATION
 
-This README would normally document whatever steps are necessary to get the
+This is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
+
+<img src="flixtermainpagescreenshot.png" class="full-width" />
+
+README would normally document whatever steps are necessary to get the
 application up and running. test test test
 
 Things you may want to cover:
