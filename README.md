@@ -1,28 +1,28 @@
 # FLIXTER WEB APPLICATION
 
-This is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
+This is a web application that uses Postgres.The application is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces(advanced UI and UX), and advanced database relationships.
 
 <img src="flixtermainpagescreenshot.png" class="full-width"/>
 
-README would normally document whatever steps are necessary to get the
-application up and running. test test test
+# Tools used during the Application Development include
 
-Things you may want to cover:
+Ruby on Rails. Ruby version 2.5.3 and rails version 5.2.3
+HTML and CSS for styling pages
 
-* Ruby version
+Git 
+GitHub
+Heroku
+Amazon Web Services
 
-* System dependencies
 
-* Configuration
+# Creating and Running the application
 
-* Database creation
+Set up the initial project structure by creating a new rails web application that uses Postgresql and creating an initial, empty database by running rake db:create to have a place to store information.Start the server.
 
-* Database initialization
+Set up the web development pipeline: git, github and heroku. This will save and run the application code locally and in production. 
 
-* How to run the test suite
+Add user authentication by setting up the devise gem and adding login links to the navbar. This grants users ability to sign up, sign in and sign out of the application. 
 
-* Services (job queues, cache servers, search engines, etc.)
+Set up models and database, build the infrastructure which includes controller, routes table and view files. 
 
-* Deployment instructions
 
-* ...
