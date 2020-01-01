@@ -2,16 +2,20 @@
 
 This is a web application that uses Postgres.The application is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces(advanced UI and UX), and advanced database relationships.
 
-<img src="flixtermainpagescreenshot.png" class="full-width"/>
+<img src="flixtermainpagescreenshot.png" class='img-fluid'/>
 
 # Tools used during the Application Development include
 
 Ruby on Rails. Ruby version 2.5.3 and rails version 5.2.3
+
 HTML and CSS for styling pages
 
 Git 
+
 GitHub
+
 Heroku
+
 Amazon Web Services
 
 
