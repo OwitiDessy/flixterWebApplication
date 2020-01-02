@@ -2,7 +2,7 @@
 
 This is a web application that uses Postgres.The application is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces(advanced UI and UX), and advanced database relationships.
 
-<img src="flixtermainpagescreenshot.png" class='img-fluid'/>
+<img src="flixtermainpagescreenshot.png" class="full-width" />
 
 # Tools used during the Application Development include
 
@@ -28,5 +28,9 @@ Set up the web development pipeline: git, github and heroku. This will save and 
 Add user authentication by setting up the devise gem and adding login links to the navbar. This grants users ability to sign up, sign in and sign out of the application. 
 
 Set up models and database, build the infrastructure which includes controller, routes table and view files. 
+
+#Try it yourself!
+
+<%= link_to 'https://flixter-dessy-owiti.herokuapp.com/' %>
 
 
