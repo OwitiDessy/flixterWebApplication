@@ -29,7 +29,7 @@ Add user authentication by setting up the devise gem and adding login links to t
 
 Set up models and database, build the infrastructure which includes controller, routes table and view files. 
 
-#Try it yourself
+# Try it yourself, link provided below
 
 https://flixter-dessy-owiti.herokuapp.com/
 
