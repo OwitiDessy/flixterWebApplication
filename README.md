@@ -2,9 +2,9 @@
 
 This is a web application that uses Postgres.The application is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces(advanced UI and UX), and advanced database relationships.
 
-![Flixter screenshot](/app/assets/images/flixtermainpagescreenshot.png)
+![Flixter main page](/app/assets/images/flixtermainpagescreenshot.png)
 
-# Tools used during the Application Development include
+## Tools used during the Application Development include
 
 Ruby on Rails. Ruby version 2.5.3 and rails version 5.2.3
 
@@ -19,7 +19,7 @@ Heroku
 Amazon Web Services
 
 
-# Creating and Running the application
+## Creating and Running the application
 
 Set up the initial project structure by creating a new rails web application that uses Postgresql and creating an initial, empty database by running rake db:create to have a place to store information.Start the server.
 
@@ -29,8 +29,9 @@ Add user authentication by setting up the devise gem and adding login links to t
 
 Set up models and database, build the infrastructure which includes controller, routes table and view files. 
 
-# Try it yourself, link provided below
+## Try it yourself, link provided below
 
-https://flixter-dessy-owiti.herokuapp.com/
+[FLIXTER](https://https://flixter-dessy-owiti.herokuapp.com/)
+
 
 
