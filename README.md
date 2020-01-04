@@ -2,7 +2,7 @@
 
 This is a web application that uses Postgres.The application is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces(advanced UI and UX), and advanced database relationships.
 
-![Flixter screenshot]("/app/assets/images/flixtermainpagescreenshot.png")
+![Flixter screenshot](/app/assets/images/flixtermainpagescreenshot.png)
 
 # Tools used during the Application Development include
 
