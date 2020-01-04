@@ -31,7 +31,7 @@ Set up models and database, build the infrastructure which includes controller, 
 
 ## Try it yourself, link provided below
 
-[FLIXTER](https://https://flixter-dessy-owiti.herokuapp.com/)
+[FLIXTER](https://flixter-dessy-owiti.herokuapp.com/)
 
 
 
