@@ -11,6 +11,8 @@ Ruby on Rails. Ruby version 2.5.3 and rails version 5.2.3
 
 Sublime Text Editor
 
+PuTTY
+
 jQuery
 
 HTML and CSS
