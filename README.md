@@ -15,6 +15,8 @@ PuTTY
 
 jQuery
 
+Bootstrap
+
 HTML and CSS
 
 Git 
